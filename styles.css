@@ -71,11 +71,11 @@ p{
 }
 
 a:hover{
-    opacity: .8;
+    opacity: 0.8;
 }
 
 a:active{
-    opacity: .5;
+    opacity: 0.5;
 }
 
 header{
